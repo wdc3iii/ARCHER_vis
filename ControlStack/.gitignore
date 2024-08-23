@@ -1,0 +1,11 @@
+build
+cmake-build-debug
+data
+.idea
+*.swp
+*.asv
+*.png
+*.svg
+/docs/**
+!/docs/README.md
+
